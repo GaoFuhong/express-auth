@@ -10,7 +10,7 @@
   "author": "gfh",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "express": "^5.0.0-alpha.7",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.1"
